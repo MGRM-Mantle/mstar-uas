@@ -1,5 +1,6 @@
 ---
 name: 🏗 Development Task
+about: "Development Task"
 title: "[Dev] <Feature Name>"
 labels: ["Dev In Progress"]
 assignees: ["@developer"]

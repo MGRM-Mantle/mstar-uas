@@ -1,5 +1,6 @@
 ---
 name: 🎨 UI/UX Task
+about: "UI/UX Task"
 title: "[UI/UX] <Feature Name>"
 labels: ["UI/UX In Progress"]
 assignees: ["@uiux-designer"]
